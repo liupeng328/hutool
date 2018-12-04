@@ -30,3 +30,7 @@ build/
 # system ignore
 .DS_Store
 Thumbs.db
+
+#Jrebel 插件配置文件：用于代码的热加载
+.rebel-remote.xml.bak
+rebel.xml
